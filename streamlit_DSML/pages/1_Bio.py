@@ -4,16 +4,15 @@ from pathlib import Path
 st.title("👋 My Bio")
 
 # ---------- TODO: Replace with your own info ----------
-NAME = "Your Name"
-PROGRAM = "Your Program / Major / Role"
+NAME = "Adam Long"
+PROGRAM = "Data Science"
 INTRO = (
-    "Write 2–3 sentences about yourself: what you’re studying/working on, "
-    "what excites you about data visualization or computing, etc."
+    "Hello! my namme is adam and im excited about DSML because of the many possible jobs and can get with the degee. I also love optimization, and that is a big role in this major"
 )
 FUN_FACTS = [
-    "I love …",
-    "I’m learning …",
-    "I want to build …",
+    "I love Optimization",
+    "I’m learning how to use streamlit",
+    "I want to build a video game",
 ]
 
 
